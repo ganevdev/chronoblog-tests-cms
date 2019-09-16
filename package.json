@@ -1,0 +1,20 @@
+{
+  "name": "chronoblog",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "clean": "gatsby clean",
+    "start": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "keywords": [],
+  "author": "Ivan Ganev <ganevio92@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby-theme-chronoblog": "^0.0.5",
+    "gatsby": "^2.15.15",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
